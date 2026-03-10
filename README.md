@@ -1,6 +1,6 @@
   SubMind – Subscription Management System
 
-> **MIS 321 – Phase 1 & Phase 2 Project**  
+> **System Analysis and Design –Project**  
 > A smart, AI-powered subscription management system designed for the Turkish market.
 
 ---
